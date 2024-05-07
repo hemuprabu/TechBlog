@@ -1,0 +1,20 @@
+<button
+  type="button"
+  class="header_btn d-inline-flex mb-3 px-2 py-1 fw-semibold text-success-emphasis bg-success-subtle border border-success-subtle rounded-2"
+>The Tech Blog </button><h1></h1>
+{{log this}}
+<div
+  class="blog-posts mb-3 px-5 py-5 text-success-emphasis bg-success-subtle border border-success-subtle rounded-2"
+>
+  {{#each blogPosts}}
+    <div class="blog-post">
+      <div class="bp_title"><h2>{{title}}</h2>
+        <p>Posted by {{author}}
+        <span>on {{createdAt}}</span></p>
+      </div>
+      <p>{{content}}</p>
+    </div>
+  {{else}}
+    <p>No blog posts available.</p>
+  {{/each}}
+</div>

@@ -1,0 +1,24 @@
+[
+    {
+      "title":"Why MVC is so important",
+      "content":"the MVC pattern is that it makes it easier to locate certain code sections and add new functionality quickly.",
+      "author":"Pooja",
+      "createdAt":"5/8/2004"
+    },
+    {
+        "title":"Authentication vs. Authorization",
+        "content":"authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to",
+        "author":"Sami",
+        "createdAt":"5/8/2024"
+      
+    },
+    {
+        "title":"object relational mapping",
+        "content":"Object–relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between a relational database and the heap of an object-oriented programming language",
+        "author":"Prabu",
+        "createdAt":"5/8/2022"
+     
+    }
+    
+  ]
+  

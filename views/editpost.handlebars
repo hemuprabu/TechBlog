@@ -1,0 +1,17 @@
+<button
+  type="button"
+  class="header_btn d-inline-flex mb-3 px-2 py-1 fw-semibold text-success-emphasis bg-success-subtle border border-success-subtle rounded-2"
+>Your Dashboard </button>
+<div
+  class="blog-posts mb-3 px-5 py-5 text-success-emphasis bg-success-subtle border border-success-subtle rounded-2"
+>
+{{ log this}}
+<h1>Edit Post </h1>
+    <form action="/dashboard/edit/{{post.id}}" method="post">
+        <label for="title">Title:</label><br>
+        <input type="text" id="title" name="title" value="{{post.title}}"><br>
+        <label for="content">Content:</label><br>
+        <textarea id="content" name="content">{{post.content}}</textarea><br>
+        <button type="submit">Submit</button>
+    </form>
+    </div>

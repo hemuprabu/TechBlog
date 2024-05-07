@@ -58,9 +58,8 @@ Feel free to customize this list with the specific features and functionalities 
 ![Screenshot 2024-05-07 182156](https://github.com/hemuprabu/TechBlog/assets/108079829/a3461702-107f-4a1c-9487-e7228f83baaa)
 ![Screenshot 2024-05-07 182213](https://github.com/hemuprabu/TechBlog/assets/108079829/f00ace92-325c-4b22-9b6e-276456381cd2)
 ![Screenshot 2024-05-07 182250](https://github.com/hemuprabu/TechBlog/assets/108079829/6a293990-8f4f-4cce-a823-5b92a2f02557)
-![Screenshot 2024-05-07 182303](https://github.com/hemuprabu/TechBlog/assets/108079829/107cc484-ecf4-4f2b-a20f-45800bbe2be8)
-![Screenshot 2024-05-07 182314](https://github.com/hemuprabu/TechBlog/assets/108079829/c37a7664-6313-4e16-9b04-bb176abe9468)
-
+![Screenshot 2024-05-07 182939](https://github.com/hemuprabu/TechBlog/assets/108079829/ad633e79-79d4-4062-b03a-cc2cf12728de)
+![Screenshot 2024-05-07 182956](https://github.com/hemuprabu/TechBlog/assets/108079829/d80b8562-ab40-4b3b-a276-433b7b3c7f8b)
 
 
 ## Walkthrough Video:
